@@ -27,9 +27,9 @@ class BoardMember{
   }
 }
 class Ceo extends BoardMember{
-    constructor(name, homeState, training){
+  hireEmployee(){
+    return Welcome abroad!
   }
-
 }
 
 
